@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/clint-decker/",
+    "icon": "/icons/linkedin.svg"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/smakosh",
+    "icon": "/icons/github.svg"
+  }
+]

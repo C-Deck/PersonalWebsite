@@ -1,0 +1,30 @@
+export const defaultTitle = `Clint Decker`,
+  logo = `http://clintjdecker.com/favicon/favicon-512.png`,
+  author = `Clint Decker`,
+  url = `http://clintjdecker.com`,
+  legalName = `Clint Decker`,
+  defaultDescription = `I'm Clint and I am a Software Engineer.`,
+  socialLinks = {
+    github: `https://github.com/C-Deck`,
+    linkedin: `https://www.linkedin.com/in/clint-decker/`,
+    instagram: `https://instagram.com/clint-decker`,
+  },
+  googleAnalyticsID = `UA-88875900-4`,
+  themeColor = `#6b63ff`,
+  backgroundColor = `#6b63ff`,
+  social = {
+    facebook: `appId`,
+    twitter: `@smakosh`,
+  },
+  address = {
+    city: `City`,
+    region: `Region`,
+    country: `Country`,
+    zipCode: `ZipCode`,
+  },
+  contact = {
+    email: `email`,
+    phone: `phone number`,
+  },
+  foundingDate = `2020`,
+  thumbnail = `../assets/thumbnail//thumbnail.png`
